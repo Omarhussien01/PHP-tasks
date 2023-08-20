@@ -16,7 +16,7 @@ $users=getUsers();
     ?></div>
     <div class="section">
       <div class="profile-image">
-      <img src="https://www.befunky.com/images/prismic/5ddfea42-7377-4bef-9ac4-f3bd407d52ab_landing-photo-to-cartoon-img5.jpeg?auto=avif" alt="Avatar" class="avatar">
+      <img src="https://images.unsplash.com/photo-1622020920816-cd528763211a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=408&q=80" alt="Avatar" class="avatar">
       </div>
 
       <div class="information"> 
